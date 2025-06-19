@@ -1,0 +1,60 @@
+{
+  "artists": [
+
+    {
+      "id": 1,
+      "name": "Radiohead",
+      "description": "Radiohead are an English rock band formed in 1985 in Abingdon, celebrated for their experimental approach that helped define alternative rock and electronic art-rock in the 1990s and 2000s."
+    },
+    {
+      "id": 2,
+      "name": "Maria Jaume",
+      "description": "Maria Jaume is a Mallorcan singer-songwriter whose intimate Catalan indie-folk songs, beginning with her 2020 debut “Fins a maig no revisc,” explore vulnerability and island landscapes."
+    },
+    {
+      "id": 3,
+      "name": "Antònia Font",
+      "description": "Antònia Font are an indie-pop band from Mallorca, formed in 1997, known for quirky, space-themed Catalan lyrics and Mediterranean melodies; they reunited in 2021 after an eight-year hiatus."
+    },
+    {
+      "id": 4,
+      "name": "Phoebe Bridgers",
+      "description": "Phoebe Bridgers is an American indie folk-rock singer-songwriter from Los Angeles whose haunting vocals and candid storytelling on albums like “Stranger in the Alps” (2017) and “Punisher” (2020) have earned critical acclaim."
+    },
+    {
+      "id": 5,
+      "name": "Clairo",
+      "description": "Clairo (Claire Cottrill) is an American bedroom-pop artist who gained viral attention with “Pretty Girl” in 2017 and has since released the introspective albums “Immunity” (2019) and “Sling” (2021)."
+    },
+    {
+      "id": 6,
+      "name": "Extremoduro",
+      "description": "Extremoduro are a Spanish rock band from Plasencia, founded in 1987, famed for raw guitar riffs and poetic, often gritty lyrics that became a soundtrack for generations."
+    },
+    {
+      "id": 7,
+      "name": "Manel",
+      "description": "Manel are a Barcelona indie-folk pop quartet formed in 2007, singing in Catalan with brass and string arrangements that weave humorous, literate storytelling."
+    },
+    {
+      "id": 8,
+      "name": "ABBA",
+      "description": "ABBA are a Swedish pop quartet formed in 1972 whose glittering harmonies and disco-pop hits like “Dancing Queen” made them global stars; they returned with the album “Voyage” in 2021."
+    },
+    {
+      "id": 9,
+      "name": "Catfish And The Bottlemen",
+      "description": "Catfish and the Bottlemen are a Welsh indie-rock band formed in Llandudno in 2007, delivering riff-driven, anthemic hits such as “Kathleen” and the platinum debut “The Balcony.”"
+    },
+    {
+      "id": 10,
+      "name": "Amy Winehouse",
+      "description": "Amy Winehouse (1983-2011) was a British soul and jazz singer whose smoky contralto and confessional songwriting on “Back to Black” influenced a new wave of retro-soul."
+    },
+    {
+      "id": 11,
+      "name": "Twenty One Pilots",
+      "description": "Twenty One Pilots are an Ohio duo formed in 2009 who blend alt-rock, hip-hop and electronic styles, winning a Grammy for the hit “Stressed Out.”"
+    }
+  ]
+}

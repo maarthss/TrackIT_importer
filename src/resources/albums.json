@@ -1,0 +1,329 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "title": "Pablo Honey",
+      "description": "Released in 1993, Radiohead's debut album includes the breakout hit 'Creep'. Though initially met with mixed reviews, it later gained recognition as the start of a groundbreaking career.",
+      "release_date": "1993-02-22",
+      "artist": {
+        "id": 1
+      }
+    },
+    {
+      "id": 2,
+      "title": "The Bends",
+      "description": "Released in 1995, 'The Bends' marked Radiohead's shift toward a more layered and emotional sound, with tracks like 'Fake Plastic Trees' and 'Street Spirit (Fade Out)'.",
+      "release_date": "1995-03-13",
+      "artist": {
+        "id": 1
+      }
+    },
+    {
+      "id": 3,
+      "title": "OK Computer",
+      "description": "Released in 1997, 'OK Computer' is often hailed as one of the greatest albums of all time. It explored themes of technology and isolation, and its success transformed the band into global icons.",
+      "release_date": "1997-05-21",
+      "artist": {
+        "id": 1
+      }
+    },
+    {
+      "id": 4,
+      "title": "Kid A",
+      "description": "In 2000, Radiohead released 'Kid A', a radical departure from rock into experimental electronica. It initially divided fans but is now considered a modern masterpiece.",
+      "release_date": "2000-10-02",
+      "artist": {
+        "id": 1
+      }
+    },
+    {
+      "id": 5,
+      "title": "In Rainbows",
+      "description": "In 2007, 'In Rainbows' was released with a revolutionary 'pay what you want' model. Musically warm and emotionally direct, it includes fan favorites like 'Nude' and 'Weird Fishes'.",
+      "release_date": "2007-10-10",
+      "artist": {
+        "id": 1
+      }
+    },
+    {
+      "id": 6,
+      "title": "Voltes i voltes",
+      "description": "Released in 2022, this sophomore album expands Maria Jaume’s sound with light percussion, synth layers and fuller arrangements. The title reflects cycles of thought and travel, capturing her introspective perspective shaped by life between Mallorca and Barcelona.",
+      "release_date": "2022-03-25",
+      "artist": {
+        "id": 2
+      }
+    },
+    {
+      "id": 7,
+      "title": "Nostàlgia Airlines SOUVENIR",
+      "description": "Released in 2025, 'Nostàlgia Airlines SOUVENIR' dives into retro pop textures and dreamy melancholy. With playful arrangements and surreal lyrical imagery, it marks a stylistic evolution while staying rooted in Maria Jaume’s poetic voice.",
+      "release_date": "2025-04-19",
+      "artist": {
+        "id": 2
+      }
+    },
+
+    {
+      "id": 8,
+      "title": "Antònia Font",
+      "description": "Released in 1999, their self-titled debut introduced the band’s playful, science-fiction-tinged Catalan lyrics and Mediterranean pop melodies. It laid the groundwork for their cult following in the Balearic music scene.",
+      "release_date": "1999-01-01",
+      "artist": {
+        "id": 3
+      }
+    },
+    {
+      "id": 9,
+      "title": "A Rússia",
+      "description": "Released in 2001, 'A Rússia' expanded their sonic palette with rich instrumentation and surreal imagery, further establishing their identity as creative outliers in Catalan pop.",
+      "release_date": "2001-04-23",
+      "artist": {
+        "id": 3
+      }
+    },
+    {
+      "id": 10,
+      "title": "Alegria",
+      "description": "Released in 2002, 'Alegria' became one of the band’s most iconic records. It includes fan favorites like 'Wa Yeah!' and reflects their perfect balance of optimism and oddity.",
+      "release_date": "2002-05-07",
+      "artist": {
+        "id": 3
+      }
+    },
+    {
+      "id": 11,
+      "title": "Batiscafo Katiuscas",
+      "description": "Released in 2006, this album is a fan favorite for its underwater metaphors and dreamy production. The title track and 'Armando Rampas' showcase their lyrical surrealism at its peak.",
+      "release_date": "2006-03-28",
+      "artist": {
+        "id": 3
+      }
+    },
+    {
+      "id": 12,
+      "title": "Lamparetes",
+      "description": "Released in 2011 after a brief hiatus, 'Lamparetes' features a matured sound and poetic lyrics, including the standout single 'Clint Eastwood'. It became their last album before an eight-year break.",
+      "release_date": "2011-04-12",
+      "artist": {
+        "id": 3
+      }
+    },
+    {
+      "id": 13,
+      "title": "Un minut estroboscòpica",
+      "description": "Released in 2022, this comeback album marked Antònia Font’s return after nearly a decade apart. It reflects a more reflective, polished tone while retaining their unique linguistic and melodic style.",
+      "release_date": "2022-03-18",
+      "artist": {
+        "id": 3
+      }
+    },
+    {
+      "id": 14,
+      "title": "Stranger in the Alps",
+      "description": "Phoebe Bridgers' debut solo album, known for its haunting lyrics and intimate acoustic sound.",
+      "release_date": "2017-09-22",
+      "artist": {
+        "id": 4
+      }
+    },
+    {
+      "id": 15,
+      "title": "Punisher",
+      "description": "Her critically acclaimed second album that blends indie rock and folk with deeply personal storytelling.",
+      "release_date": "2020-06-18",
+      "artist": {
+        "id": 4
+      }
+    },
+    {
+      "id": 16,
+      "title": "Immunity",
+      "description": "Clairo's debut studio album featuring a blend of lo-fi pop and indie electronic sounds, praised for its candid lyricism.",
+      "release_date": "2019-08-02",
+      "artist": {
+        "id": 5
+      }
+    },
+    {
+      "id": 17,
+      "title": "Sling",
+      "description": "Her sophomore album, showcasing a more mature sound with elements of folk and soft rock, reflecting personal growth.",
+      "release_date": "2021-07-16",
+      "artist": {
+        "id": 5
+      }
+    },
+    {
+      "id": 18,
+      "title": "Charm",
+      "description": "Clairo's third album that continues to explore introspective themes with a dreamy, synth-pop vibe.",
+      "release_date": "2024-05-10",
+      "artist": {
+        "id": 5
+      }
+    },
+    {
+      "id": 19,
+      "title": "Rock Transgresivo",
+      "description": "Extremoduro's debut album, laying the foundation of their rebellious and raw rock style.",
+      "release_date": "1989-06-01",
+      "artist": {
+        "id": 6
+      }
+    },
+    {
+      "id": 20,
+      "title": "Yo, Minoría Absoluta",
+      "description": "An album reflecting a darker, more introspective phase in the band's career.",
+      "release_date": "2002-04-01",
+      "artist": {
+        "id": 6
+      }
+    },
+    {
+      "id": 21,
+      "title": "La Ley Innata",
+      "description": "A concept album that explores existential themes with complex compositions and intense lyrics.",
+      "release_date": "2008-11-18",
+      "artist": {
+        "id": 6
+      }
+    },
+    {
+      "id": 22,
+      "title": "Material Defectuoso",
+      "description": "Their last studio album, showcasing maturity and a refined rock sound.",
+      "release_date": "2011-09-27",
+      "artist": {
+        "id": 6
+      }
+    },
+    {
+      "id": 23,
+      "title": "10 milles per veure una bona armadura",
+      "description": "An album blending indie pop and folk with introspective and heartfelt lyrics.",
+      "release_date": "2011-01-31",
+      "artist": {
+        "id": 7
+      }
+    },
+    {
+      "id": 24,
+      "title": "Atletes, baixin de l'escenari",
+      "description": "Exploring new sounds with a mix of electronic and pop influences.",
+      "release_date": "2013-11-04",
+      "artist": {
+        "id": 7
+      }
+    },
+    {
+      "id": 25,
+      "title": "Els millors professors europeus",
+      "description": "An album by Manel featuring their signature Catalan indie-folk sound with thoughtful lyrics and melodic arrangements.",
+      "release_date": "2019-10-18",
+      "artist": {
+        "id": 7
+      }
+    },
+    {
+      "id": 26,
+      "title": "Arrival",
+      "description": "Featuring timeless hits like 'Dancing Queen', this album marked their global peak.",
+      "release_date": "1976-10-11",
+      "artist": {
+        "id": 8
+      }
+    },
+    {
+      "id": 27,
+      "title": "Voulez-Vous",
+      "description": "A disco-influenced album with danceable tracks and polished production.",
+      "release_date": "1979-04-23",
+      "artist": {
+        "id": 8
+      }
+    },
+    {
+      "id": 28,
+      "title": "Super Trouper",
+      "description": "Includes hits like 'The Winner Takes It All', blending emotional lyrics with catchy melodies.",
+      "release_date": "1980-11-03",
+      "artist": {
+        "id": 8
+      }
+    },
+    {
+      "id": 29,
+      "title": "The Balcony",
+      "description": "Debut album that brought their energetic indie rock sound to a wider audience.",
+      "release_date": "2014-09-15",
+      "artist": {
+        "id": 9
+      }
+    },
+    {
+      "id": 30,
+      "title": "The Ride",
+      "description": "Follow-up album featuring more polished production and catchy rock anthems.",
+      "release_date": "2016-05-27",
+      "artist": {
+        "id": 9
+      }
+    },
+    {
+      "id": 31,
+      "title": "The Balance",
+      "description": "Their third album, continuing to develop their sound with emotional and energetic tracks.",
+      "release_date": "2019-04-26",
+      "artist": {
+        "id": 9
+      }
+    },
+    {
+      "id": 32,
+      "title": "Frank",
+      "description": "Debut album blending jazz, soul, and R&B influences, showcasing Amy's unique vocal style.",
+      "release_date": "2003-10-20",
+      "artist": {
+        "id": 10
+      }
+    },
+    {
+      "id": 33,
+      "title": "Back to Black",
+      "description": "Critically acclaimed sophomore album featuring hits like 'Rehab' and 'Back to Black'.",
+      "release_date": "2006-10-27",
+      "artist": {
+        "id": 10
+      }
+    },
+    {
+      "id": 34,
+      "title": "Blurryface",
+      "description": "Concept album exploring themes of anxiety and insecurity, featuring hits like 'Stressed Out'.",
+      "release_date": "2015-05-17",
+      "artist": {
+        "id": 11
+      }
+    },
+    {
+      "id": 35,
+      "title": "Trench",
+      "description": "A darker, more complex album continuing the story of their fictional world.",
+      "release_date": "2018-10-05",
+      "artist": {
+        "id": 11
+      }
+    },
+    {
+      "id": 36,
+      "title": "Clancy",
+      "description": "An EP expanding the narrative universe of Twenty One Pilots.",
+      "release_date": "2024-05-24",
+      "artist": {
+        "id": 11
+      }
+    }
+  ]
+}
